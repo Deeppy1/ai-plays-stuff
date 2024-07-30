@@ -8,7 +8,7 @@ pygame.init()
 
 # Window dimensions
 width, height = 800, 600
-snake_block = 100
+snake_block = 10
 snake_speed = 10000
 
 # Colors
